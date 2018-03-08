@@ -1,0 +1,39 @@
+{
+  "configVersion": 1,
+  "index": "'/pwcat-choui-demo/'/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "'/pwcat-choui-demo/'/favicon.ico",
+        "'/pwcat-choui-demo/'/index.html",
+        "'/pwcat-choui-demo/'/inline.318b50c57b4eba3d437b.bundle.js",
+        "'/pwcat-choui-demo/'/main.c0c639e856b2380c9db8.bundle.js",
+        "'/pwcat-choui-demo/'/polyfills.2d896654d931a4d9a559.bundle.js",
+        "'/pwcat-choui-demo/'/styles.1573b671d329b7e83e47.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "'/pwcat-choui-demo/'/assets/icon-128x128.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "'/pwcat-choui-demo/'/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "'/pwcat-choui-demo/'/assets/icon-128x128.png": "9b5c4a7742bf3b430e1d887777f0232b45ee7f4d",
+    "'/pwcat-choui-demo/'/main.c0c639e856b2380c9db8.bundle.js": "430b2861a197027cb3960c83a39167ea87c24b10",
+    "'/pwcat-choui-demo/'/polyfills.2d896654d931a4d9a559.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
+    "'/pwcat-choui-demo/'/styles.1573b671d329b7e83e47.bundle.css": "dc2153c1ca13cab01768eff80bbfafa356bc1c77",
+    "'/pwcat-choui-demo/'/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "'/pwcat-choui-demo/'/index.html": "42aa872c7a04471cc65e76d523d87f114d50d837"
+  }
+}
