@@ -3,6 +3,7 @@
   "project": {
     "name": "pwcat-choui"
   },
+  "serviceWorker": true,
   "apps": [
     {
       "root": "src",
