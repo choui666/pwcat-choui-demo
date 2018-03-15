@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/index.html",
+  "index": "/pwcat-choui-demo/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/inline.318b50c57b4eba3d437b.bundle.js",
-        "/main.a73eec01615017eee07e.bundle.js",
-        "/polyfills.2d896654d931a4d9a559.bundle.js",
-        "/styles.1573b671d329b7e83e47.bundle.css"
+        "/pwcat-choui-demo/favicon.ico",
+        "/pwcat-choui-demo/index.html",
+        "/pwcat-choui-demo/inline.318b50c57b4eba3d437b.bundle.js",
+        "/pwcat-choui-demo/main.8f76606eddf78dd1aa91.bundle.js",
+        "/pwcat-choui-demo/polyfills.2d896654d931a4d9a559.bundle.js",
+        "/pwcat-choui-demo/styles.1573b671d329b7e83e47.bundle.css"
       ],
       "patterns": []
     },
@@ -26,11 +26,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "/main.a73eec01615017eee07e.bundle.js": "1a3896965c2518c491b83f1395cd88318a2fcb73",
-    "/polyfills.2d896654d931a4d9a559.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
-    "/styles.1573b671d329b7e83e47.bundle.css": "dc2153c1ca13cab01768eff80bbfafa356bc1c77",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "70fbed1de394ec6a4ffab5e10993511ecf3b5c60"
+    "/pwcat-choui-demo/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/pwcat-choui-demo/main.8f76606eddf78dd1aa91.bundle.js": "ea67a0ac22dc8b97a13242a9802e9d7955fb443b",
+    "/pwcat-choui-demo/polyfills.2d896654d931a4d9a559.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
+    "/pwcat-choui-demo/styles.1573b671d329b7e83e47.bundle.css": "dc2153c1ca13cab01768eff80bbfafa356bc1c77",
+    "/pwcat-choui-demo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/pwcat-choui-demo/index.html": "ed1ed77a84204ceddf7bf2095c8752b7b9f1f9da"
   }
 }
